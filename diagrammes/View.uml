@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ent.etrs.view.ContactView</OriginalElement>
+  <nodes>
+    <node x="116.0" y="-54.5">net.ent.etrs.view.console.TelephoneViewImpl</node>
+    <node x="116.0" y="-169.5">net.ent.etrs.view.TelephoneView</node>
+    <node x="132.0" y="97.5">net.ent.etrs.view.MailView</node>
+    <node x="415.0" y="117.0">net.ent.etrs.view.console.ContactViewImpl</node>
+    <node x="104.0" y="348.5">net.ent.etrs.view.console.ViewFactory</node>
+    <node x="132.0" y="215.5">net.ent.etrs.view.console.MailViewImpl</node>
+    <node x="450.00000000000006" y="-169.5">net.ent.etrs.view.ContactView</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="net.ent.etrs.view.console.ContactViewImpl" target="net.ent.etrs.view.ContactView" relationship="REALIZATION">
+      <point x="0.0" y="-237.0" />
+      <point x="0.0" y="115.0" />
+    </edge>
+    <edge source="net.ent.etrs.view.console.MailViewImpl" target="net.ent.etrs.view.MailView" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="net.ent.etrs.view.console.TelephoneViewImpl" target="net.ent.etrs.view.TelephoneView" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="331.49999999999994" y="160.0" />
+  <SelectedNodes>
+    <node>net.ent.etrs.view.console.ViewFactory</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

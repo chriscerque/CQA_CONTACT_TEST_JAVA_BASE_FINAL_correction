@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration PUBLIC
+	"http://logging.apache.org/log4j/docs/api/org/apache/log4j/xml/log4j.dtd"
+	"http://logging.apache.org/log4j/docs/api/org/apache/log4j/xml/log4j.dtd">
+	
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+	<!-- ======================== -->
+	<!-- DEFINITION DES APPENDERS -->
+	<!-- ======================== -->
+	<appender name="console" class="org.apache.log4j.ConsoleAppender">
+		<param name="target" value="System.err" />
+		<layout class="org.apache.log4j.PatternLayout"> 
+			<param name="ConversionPattern" value="[%-5p] Classe : %c Message : %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter" >
+			<param name="levelMin" value="WARN" />
+		</filter>
+	</appender>
+	
+	<appender name="contact" class="org.apache.log4j.FileAppender">
+		<param name="file" value="contact.log"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{dd/MM/yyyy HH:mm:ss} (%-10F:%L) %-5p - %m%n" />
+		</layout>
+	</appender>
+	
+	<appender name="contact_dao" class="org.apache.log4j.FileAppender">
+		<param name="file" value="contact_dao.log"/>
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{dd/MM/yyyy HH:mm:ss} (%-10F:%L) %-5p - %m%n" />
+		</layout>
+	</appender>
+	<appender name="monfichierHtml" class="org.apache.log4j.FileAppender">
+		<param name="file" value="test.html" />
+		 <layout class="org.apache.log4j.HTMLLayout" >
+            <param name="LocationInfo" value="true" />
+        </layout>
+	</appender>	
+	
+	
+	<!-- ======================== -->
+	<!-- LOGGERS DE L'APPLICATION -->
+	<!-- ======================== -->
+
+	<!--  Placer les loggers particuliers puis root (attention additivite des appenders)-->
+	<!-- <logger name="autreLogger" additivity="false" >-->
+	<logger name="logger_contact_dao" >
+		<level value="info" />
+		<appender-ref ref="contact_dao" />
+	</logger>
+	<!-- <logger name="logger_contact" >
+		<level value="info" />
+		<appender-ref ref="contact" />
+	</logger>
+	-->
+	<!-- root: pour les classes qui ont comme logger NomClasse.class -->
+	<root>
+		<level value="info" />
+		<appender-ref ref="console" />		
+		<appender-ref ref="contact" />
+	</root>
+</log4j:configuration>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ent.etrs.model.dao.DaoFactory</OriginalElement>
+  <nodes>
+    <node x="-143.0" y="74.0">net.ent.etrs.model.dao.DaoFactory</node>
+    <node x="-150.5" y="-60.5">net.ent.etrs.model.facade.FacadeModelFactory</node>
+    <node x="-192.0" y="223.5">net.ent.etrs.model.entities.EntitiesFactory</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="-0.5" y="142.0" />
+  <SelectedNodes>
+    <node>net.ent.etrs.model.entities.EntitiesFactory</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

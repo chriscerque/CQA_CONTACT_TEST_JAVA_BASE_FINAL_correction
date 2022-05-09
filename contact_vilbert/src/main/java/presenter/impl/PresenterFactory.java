@@ -1,0 +1,26 @@
+package presenter.impl;
+
+import model.facade.ContactFacade;
+import presenter.Presenter;
+import view.ContactView;
+
+import java.io.FileInputStream;
+
+public final class PresenterFactory {
+
+    //////////////////////////////////////////////////////////////////////////////////////////
+    //				                      CONSTRUCTORS				                        //
+    //////////////////////////////////////////////////////////////////////////////////////////
+
+    private PresenterFactory() {
+    }
+
+    //////////////////////////////////////////////////////////////////////////////////////////
+    //					                    METHODS				                         	//
+    //////////////////////////////////////////////////////////////////////////////////////////
+
+    public static Presenter createPresenter(final ContactView vue, final ContactFacade metier) {
+        return new PresenterImpl(metier, vue);
+    }
+
+}

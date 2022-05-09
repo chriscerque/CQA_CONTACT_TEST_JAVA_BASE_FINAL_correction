@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ent.etrs.model.comparator.ContactComparator</OriginalElement>
+  <nodes>
+    <node x="105.0" y="343.0">net.ent.etrs.model.comparator.ContactComparator</node>
+    <node x="-204.0" y="343.0">net.ent.etrs.model.comparator.TypeCoordonneeComparator</node>
+    <node x="351.0" y="343.0">net.ent.etrs.model.comparator.TypeNumeroComparator</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="203.0" y="381.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

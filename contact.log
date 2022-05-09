@@ -1,0 +1,394 @@
+28/11/2018 21:23:11 (ContactLanceur.java:38) INFO  - Lancement de l'application.
+28/11/2018 21:23:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@6bf2d08e
+28/11/2018 21:23:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+28/11/2018 21:23:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5eb5c224
+28/11/2018 21:23:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+28/11/2018 21:23:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ea30797
+28/11/2018 21:23:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+28/11/2018 21:23:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7e774085
+28/11/2018 21:23:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+28/11/2018 21:23:48 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@606d8acf
+28/11/2018 21:23:48 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+28/11/2018 21:24:01 (ContactFacadeImpl.java:51) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@ea30797
+28/11/2018 21:24:01 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 00:40:10 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:40:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ea30797
+29/11/2018 00:40:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:40:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7e774085
+29/11/2018 00:40:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:40:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1c655221
+29/11/2018 00:40:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:40:11 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@58d25a40
+29/11/2018 00:40:11 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:41:20 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:41:21 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ea30797
+29/11/2018 00:41:21 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:41:21 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7e774085
+29/11/2018 00:41:21 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:41:21 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1c655221
+29/11/2018 00:41:21 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:41:21 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@58d25a40
+29/11/2018 00:41:21 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:42:14 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:42:15 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ea30797
+29/11/2018 00:42:15 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:42:15 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7e774085
+29/11/2018 00:42:15 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:42:15 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1c655221
+29/11/2018 00:42:15 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:42:15 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@58d25a40
+29/11/2018 00:42:15 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:43:58 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@33833882
+29/11/2018 00:43:58 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:44:54 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@200a570f
+29/11/2018 00:44:54 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:49:35 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:49:36 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@c5db4cc5
+29/11/2018 00:49:36 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:49:36 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@8d21ace7
+29/11/2018 00:49:36 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:49:36 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@900e3bb9
+29/11/2018 00:49:36 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:49:36 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@8fa38a74
+29/11/2018 00:49:36 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:49:59 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@192d78dd
+29/11/2018 00:49:59 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:50:19 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@9dfd7e8c
+29/11/2018 00:50:19 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:54:51 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:54:51 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5c33439
+29/11/2018 00:54:51 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:54:51 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7d99cd9b
+29/11/2018 00:54:51 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:54:51 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ca72cee0
+29/11/2018 00:54:51 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:54:51 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@c956a492
+29/11/2018 00:54:51 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:55:23 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:55:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@860ec740
+29/11/2018 00:55:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:55:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ce2d4d0f
+29/11/2018 00:55:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:55:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1feffefe
+29/11/2018 00:55:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:55:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@dbedff17
+29/11/2018 00:55:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:56:48 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:56:49 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@475b34d3
+29/11/2018 00:56:49 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:56:49 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@983fba16
+29/11/2018 00:56:49 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:56:49 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@28b1c07d
+29/11/2018 00:56:49 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:56:49 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@f2deea4a
+29/11/2018 00:56:49 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:57:37 (ContactFacadeImpl.java:64) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@475b34d3
+29/11/2018 00:57:37 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 00:57:37 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:57:59 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 00:58:00 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@204fe7a2
+29/11/2018 00:58:00 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:58:00 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5acde27e
+29/11/2018 00:58:00 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:58:00 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@e6375d86
+29/11/2018 00:58:00 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:58:00 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@793ac12e
+29/11/2018 00:58:00 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 00:58:14 (ContactFacadeImpl.java:64) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@204fe7a2
+29/11/2018 00:58:14 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 00:58:14 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:03:29 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:03:30 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@10dd0d48
+29/11/2018 01:03:30 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:03:30 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@82bd03ca
+29/11/2018 01:03:30 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:03:30 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@8d818d17
+29/11/2018 01:03:30 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:03:30 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@45f08d9c
+29/11/2018 01:03:30 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:03:59 (ContactFacadeImpl.java:64) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@10dd0d48
+29/11/2018 01:03:59 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 01:03:59 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:04:19 (ContactFacadeImpl.java:64) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@10dd0d48
+29/11/2018 01:04:19 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 01:04:19 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:09:23 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:09:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@21baedb0
+29/11/2018 01:09:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:09:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@9360315f
+29/11/2018 01:09:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:09:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ba13b1b3
+29/11/2018 01:09:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:09:23 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@6f23fb05
+29/11/2018 01:09:23 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:10:28 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1e7eed3b
+29/11/2018 01:10:28 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:10:41 (ContactFacadeImpl.java:51) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@ba13b1b3
+29/11/2018 01:10:41 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 01:16:05 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:16:05 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@db1a87
+29/11/2018 01:16:05 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:16:05 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@e7462ff0
+29/11/2018 01:16:05 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:16:05 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@715ae922
+29/11/2018 01:16:05 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:16:05 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@2f1d5524
+29/11/2018 01:16:05 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:16:52 (ContactFacadeImpl.java:38) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@274aba83
+29/11/2018 01:16:52 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:17:03 (ContactFacadeImpl.java:51) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@715ae922
+29/11/2018 01:17:03 (ContactMemoireDao.java:69) INFO  - Dao : persistance d'un contact
+29/11/2018 01:26:40 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:26:40 (ContactFacadeImpl.java:42) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7d05426f
+29/11/2018 01:26:40 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:26:40 (ContactFacadeImpl.java:42) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@8c167c27
+29/11/2018 01:26:40 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:26:40 (ContactFacadeImpl.java:42) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@480c07e9
+29/11/2018 01:26:40 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:26:40 (ContactFacadeImpl.java:42) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@8891032
+29/11/2018 01:26:40 (ContactMemoireDao.java:49) INFO  - Dao : persistance d'un contact
+29/11/2018 01:30:06 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:30:06 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@2fd788ed
+29/11/2018 01:30:06 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:30:06 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@20d7a289
+29/11/2018 01:30:06 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:30:06 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5fe8683f
+29/11/2018 01:30:06 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:30:06 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5e751946
+29/11/2018 01:30:06 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:30:56 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@2fd788ed
+29/11/2018 01:30:56 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:30:56 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:31:42 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@fbf776d2
+29/11/2018 01:31:42 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:35:36 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:35:36 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@f6d8f15c
+29/11/2018 01:35:36 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:35:36 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@2aca2a69
+29/11/2018 01:35:36 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:35:36 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@3e033626
+29/11/2018 01:35:36 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:35:36 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@280dc172
+29/11/2018 01:35:36 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:44:52 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:44:53 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@28cc831
+29/11/2018 01:44:53 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:44:53 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@6465b3c4
+29/11/2018 01:44:53 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:44:53 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@172c2d7d
+29/11/2018 01:44:53 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:44:53 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5401b4f0
+29/11/2018 01:44:53 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:45:16 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@5370d109
+29/11/2018 01:45:16 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:45:54 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@46f955c8
+29/11/2018 01:45:54 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:46:20 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 01:46:20 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@83d0168b
+29/11/2018 01:46:20 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:46:20 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@6a21c64d
+29/11/2018 01:46:20 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:46:20 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@495cb504
+29/11/2018 01:46:20 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:46:20 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1e9bdfe5
+29/11/2018 01:46:20 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:46:46 (ContactFacadeImpl.java:40) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@4487595a
+29/11/2018 01:46:46 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:47:04 (ContactFacadeImpl.java:53) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@495cb504
+29/11/2018 01:47:04 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:47:41 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@4487595a
+29/11/2018 01:47:41 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:47:41 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:48:17 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@4487595a
+29/11/2018 01:48:17 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:48:17 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:48:51 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@4487595a
+29/11/2018 01:48:51 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:48:51 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:49:14 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@4487595a
+29/11/2018 01:49:14 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:49:14 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:49:40 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@4487595a
+29/11/2018 01:49:40 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:49:40 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:50:01 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@83d0168b
+29/11/2018 01:50:01 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:50:01 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 01:50:23 (ContactFacadeImpl.java:66) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@83d0168b
+29/11/2018 01:50:23 (ContactMemoireDao.java:70) INFO  - Dao : persistance d'un contact
+29/11/2018 01:50:23 (ContactMemoireDao.java:50) INFO  - Dao : persistance d'un contact
+29/11/2018 09:44:03 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 09:44:03 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7df7d0d4
+29/11/2018 09:44:03 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:44:03 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@19be2d36
+29/11/2018 09:44:03 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:44:03 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@d2103a1c
+29/11/2018 09:44:03 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:44:03 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@c53d0c99
+29/11/2018 09:44:03 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:44:19 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@96c80734
+29/11/2018 09:44:19 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:44:36 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@d2103a1c
+29/11/2018 09:44:36 (ContactMemoireDao.java:78) INFO  - Dao : persistance d'un contact
+29/11/2018 09:45:24 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@d28f1d5b
+29/11/2018 09:45:24 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:46:07 (ContactFacadeImpl.java:72) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@d28f1d5b
+29/11/2018 09:46:07 (ContactMemoireDao.java:78) INFO  - Dao : persistance d'un contact
+29/11/2018 09:46:07 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:46:34 (ContactFacadeImpl.java:72) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@7df7d0d4
+29/11/2018 09:46:34 (ContactMemoireDao.java:78) INFO  - Dao : persistance d'un contact
+29/11/2018 09:46:34 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:46:45 (ContactFacadeImpl.java:72) INFO  - Mise à jour du contact : net.ent.etrs.model.entities.Contact@7df7d0d4
+29/11/2018 09:46:45 (ContactMemoireDao.java:78) INFO  - Dao : persistance d'un contact
+29/11/2018 09:46:45 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:50:16 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 09:50:16 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1abb6d2c
+29/11/2018 09:50:16 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:50:16 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1292af56
+29/11/2018 09:50:16 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:50:16 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1fbf9211
+29/11/2018 09:50:16 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 09:50:16 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@805d89eb
+29/11/2018 09:50:16 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:42:12 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 10:42:12 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@2e6b55d4
+29/11/2018 10:42:12 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:42:12 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@1b0dc176
+29/11/2018 10:42:12 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:42:12 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7b26bfb0
+29/11/2018 10:42:12 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:42:12 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@fd162db4
+29/11/2018 10:42:12 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:42:17 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@1b0dc176
+29/11/2018 10:42:17 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:42:19 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@2e6b55d4
+29/11/2018 10:42:19 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:42:20 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@7b26bfb0
+29/11/2018 10:42:20 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:42:22 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@fd162db4
+29/11/2018 10:42:22 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:44:27 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 10:44:27 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@61a01a19
+29/11/2018 10:44:27 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:44:27 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@aa92e6aa
+29/11/2018 10:44:27 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:44:27 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@a5edad3f
+29/11/2018 10:44:27 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:44:27 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@fcd604cf
+29/11/2018 10:44:27 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:44:32 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@aa92e6aa
+29/11/2018 10:44:32 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:44:33 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@61a01a19
+29/11/2018 10:44:33 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:44:35 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@a5edad3f
+29/11/2018 10:44:35 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:44:36 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@fcd604cf
+29/11/2018 10:44:36 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:45:14 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 10:45:14 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@cddd49eb
+29/11/2018 10:45:14 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:45:14 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@69148fbc
+29/11/2018 10:45:14 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:45:14 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@c337a586
+29/11/2018 10:45:14 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:45:14 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@8513c92c
+29/11/2018 10:45:14 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:45:16 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@69148fbc
+29/11/2018 10:45:16 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:45:17 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@cddd49eb
+29/11/2018 10:45:17 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:45:18 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@c337a586
+29/11/2018 10:45:18 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:45:19 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@8513c92c
+29/11/2018 10:45:19 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:48:33 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 10:48:33 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7b259bd
+29/11/2018 10:48:33 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:48:33 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ed72a7f2
+29/11/2018 10:48:33 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:48:33 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@d96099b3
+29/11/2018 10:48:33 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:48:33 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@e696e2e8
+29/11/2018 10:48:33 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:48:36 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@ed72a7f2
+29/11/2018 10:48:36 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:48:39 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@7b259bd
+29/11/2018 10:48:39 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:48:42 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@d96099b3
+29/11/2018 10:48:42 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:48:43 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@e696e2e8
+29/11/2018 10:48:43 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:49:52 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 10:49:52 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ee7ce40a
+29/11/2018 10:49:52 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:49:52 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@3ab7918d
+29/11/2018 10:49:52 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:49:52 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@38fdaa0c
+29/11/2018 10:49:52 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:49:52 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@f7d2f3d9
+29/11/2018 10:49:52 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:49:54 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@3ab7918d
+29/11/2018 10:49:54 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:49:55 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@ee7ce40a
+29/11/2018 10:49:55 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:49:56 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@38fdaa0c
+29/11/2018 10:49:56 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:49:57 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@f7d2f3d9
+29/11/2018 10:49:57 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:50:28 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@6432a0e5
+29/11/2018 10:50:28 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:54:28 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+29/11/2018 10:54:28 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@214b8d6
+29/11/2018 10:54:28 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:54:28 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@e82c6b5d
+29/11/2018 10:54:28 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:54:28 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@cf2c3302
+29/11/2018 10:54:28 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:54:28 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@a01a4ebc
+29/11/2018 10:54:28 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+29/11/2018 10:54:32 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@e82c6b5d
+29/11/2018 10:54:32 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:54:33 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@214b8d6
+29/11/2018 10:54:33 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:54:34 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@cf2c3302
+29/11/2018 10:54:34 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:54:35 (ContactFacadeImpl.java:59) INFO  - Suppression du contact : net.ent.etrs.model.entities.Contact@a01a4ebc
+29/11/2018 10:54:35 (ContactMemoireDao.java:78) INFO  - Dao : suppression d'un contact
+29/11/2018 10:54:49 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@ce631a4c
+29/11/2018 10:54:49 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:28:20 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+06/12/2018 08:28:20 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@83c79615
+06/12/2018 08:28:20 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:28:20 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@72b7859a
+06/12/2018 08:28:20 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:28:20 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@c00e6860
+06/12/2018 08:28:20 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:28:20 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@40d4c1c1
+06/12/2018 08:28:20 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:10 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+06/12/2018 08:29:10 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@49aa7363
+06/12/2018 08:29:10 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:10 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@3426c686
+06/12/2018 08:29:10 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:10 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@b0d60e4
+06/12/2018 08:29:10 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:10 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@b8dbd4a7
+06/12/2018 08:29:10 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:47 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+06/12/2018 08:29:48 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@16446d13
+06/12/2018 08:29:48 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:48 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@4fb491da
+06/12/2018 08:29:48 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:48 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@b5bde194
+06/12/2018 08:29:48 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+06/12/2018 08:29:48 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@e44772db
+06/12/2018 08:29:48 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+10/12/2018 09:56:55 (ContactLanceur.java:36) INFO  - Lancement de l'application.
+10/12/2018 09:56:56 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@7c6be905
+10/12/2018 09:56:56 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+10/12/2018 09:56:56 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@fddbac6a
+10/12/2018 09:56:56 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+10/12/2018 09:56:56 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@f616dc02
+10/12/2018 09:56:56 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact
+10/12/2018 09:56:56 (ContactFacadeImpl.java:46) INFO  - Sauvegarde du contact : net.ent.etrs.model.entities.Contact@16872bed
+10/12/2018 09:56:56 (ContactMemoireDao.java:58) INFO  - Dao : persistance d'un contact

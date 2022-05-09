@@ -1,0 +1,20 @@
+Mode d'emploi
+
+    - Toute classe métier qui devra utiliser la DAO doit être créée en utilisant le file template "Entitie Class For DAO"
+    - Renseigner, dans le champs clef, le type de l'attribut servant d'identfiant (exemple String pour un NID)
+        - Le type de l'attribut ne peut pas être un type primitif
+    - Faire un clic droit sur le package dao, sélectionner New... -> interface DAO
+    - Renseigner dans le premier champs, le nom de la classe métier qui doit utiliser la DAO, et dans le deuxième champs, le type de l'attribut servant d'identifiant
+    - Il faut ensuite créer les méthodes permettant d'instancier les objets DaoImpl dans la classe DaoFactory
+
+        En prenant exemple sur :
+
+
+            /**
+             * Fabrique une DAO pour la gestion des entités {@link Test}.
+             *
+             * @return l'instance de {@link TestDao}
+             */
+            public static TestDao fabriquerTestDao() {
+                return new TestMemDaoImpl();
+            }

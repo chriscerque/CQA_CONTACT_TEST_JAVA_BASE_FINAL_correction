@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ent.etrs.model.dao.Dao</OriginalElement>
+  <nodes>
+    <node x="216.0" y="-105.0">net.ent.etrs.model.dao.Dao</node>
+    <node x="191.5" y="216.16666666666669">net.ent.etrs.model.dao.AbstractContactDao</node>
+    <node x="170.0" y="343.1666666666667">net.ent.etrs.model.dao.ContactMemoireDao</node>
+    <node x="-143.0" y="113.16666666666669">net.ent.etrs.model.dao.DaoFactory</node>
+    <node x="188.0" y="137.16666666666669">net.ent.etrs.model.dao.IContactMemoireDao</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="net.ent.etrs.model.dao.IContactMemoireDao" target="net.ent.etrs.model.dao.Dao" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="93.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.dao.ContactMemoireDao" target="net.ent.etrs.model.dao.AbstractContactDao" relationship="GENERALIZATION">
+      <point x="0.0" y="-105.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="net.ent.etrs.model.dao.AbstractContactDao" target="net.ent.etrs.model.dao.IContactMemoireDao" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="138.0" y="297.3333333333333" />
+  <SelectedNodes>
+    <node>net.ent.etrs.model.dao.AbstractContactDao</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

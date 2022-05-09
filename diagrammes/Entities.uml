@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ent.etrs.model.entities.EntitiesFactory</OriginalElement>
+  <nodes>
+    <node x="686.904387044538" y="105.28507852126745">net.ent.etrs.model.references.TypeCoordonnee</node>
+    <node x="324.69102901260214" y="105.28507852126745">net.ent.etrs.model.entities.Coordonnee</node>
+    <node x="492.5481584212439" y="532.855734265971">net.ent.etrs.model.entities.Telephone</node>
+    <node x="233.1964782870308" y="532.855734265971">net.ent.etrs.model.entities.Mail</node>
+    <node x="789.3890954530309" y="352.57040639361924">net.ent.etrs.model.exceptions.CoordonneeException</node>
+    <node x="526.0481584212439" y="802.9377676660448">net.ent.etrs.model.references.TypeNumero</node>
+    <node x="804.899838555457" y="532.855734265971">net.ent.etrs.model.exceptions.ContactException</node>
+    <node x="-108.6115065993938" y="105.28507852126745">net.ent.etrs.model.entities.Contact</node>
+    <node x="243.10251285669744" y="802.9377676660448">net.ent.etrs.model.references.TypeMail</node>
+    <node x="-42.4518415787561" y="699.7850785212675">net.ent.etrs.model.utils.Utilitaire</node>
+    <node x="776.2894043851804" y="770.0430636983673">net.ent.etrs.model.entities.EntitiesFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="net.ent.etrs.model.entities.Mail" target="net.ent.etrs.model.references.TypeMail" relationship="TO_ONE">
+      <point x="-7.5939654303333555" y="105.0" />
+      <point x="0.0" y="-72.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.entities.Telephone" target="net.ent.etrs.model.entities.Coordonnee" relationship="GENERALIZATION">
+      <point x="-29.857129408641754" y="-105.0" />
+      <point x="132.5" y="160.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.entities.Telephone" target="net.ent.etrs.model.references.TypeNumero" relationship="TO_ONE">
+      <point x="0.0" y="105.0" />
+      <point x="0.0" y="-94.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.entities.Coordonnee" target="net.ent.etrs.model.entities.Contact" relationship="TO_ONE">
+      <point x="-140.0" y="77.0" />
+      <point x="155.0" y="0.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.entities.Contact" target="net.ent.etrs.model.entities.Coordonnee" relationship="TO_MANY">
+      <point x="155.0" y="-77.0" />
+      <point x="-140.0" y="0.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.entities.Coordonnee" target="net.ent.etrs.model.references.TypeCoordonnee" relationship="TO_ONE">
+      <point x="140.0" y="-66.0" />
+      <point x="-112.0" y="0.0" />
+    </edge>
+    <edge source="net.ent.etrs.model.entities.Mail" target="net.ent.etrs.model.entities.Coordonnee" relationship="GENERALIZATION">
+      <point x="0.0" y="-105.0" />
+      <point x="-123.49455072557134" y="160.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="535.5" y="334.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

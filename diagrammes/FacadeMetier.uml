@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>net.ent.etrs.model.facade.ContactFacade</OriginalElement>
+  <nodes>
+    <node x="-150.0" y="-94.0">net.ent.etrs.model.facade.ContactFacade</node>
+    <node x="-150.0" y="103.0">net.ent.etrs.model.facade.ContactFacadeImpl</node>
+    <node x="140.0" y="-61.5">net.ent.etrs.model.facade.FacadeModelFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="net.ent.etrs.model.facade.ContactFacadeImpl" target="net.ent.etrs.model.facade.ContactFacade" relationship="REALIZATION">
+      <point x="0.0" y="-94.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="145.0" y="98.5" />
+  <SelectedNodes>
+    <node>net.ent.etrs.model.facade.FacadeModelFactory</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
